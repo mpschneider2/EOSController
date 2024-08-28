@@ -1,0 +1,7 @@
+{
+    "sketch": "EOSInterface.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem1401",
+    "programmer": "avrispmkii"
+}

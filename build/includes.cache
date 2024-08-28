@@ -1,0 +1,52 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/matthewschneider/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/matthewschneider/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard"
+  },
+  {
+    "Sourcefile": "/Users/matthewschneider/Desktop/EOSInterface/build/sketch/EOSInterface.ino.cpp",
+    "Include": "OSCBoards.h",
+    "Includepath": "/Users/matthewschneider/Documents/Arduino/libraries/OSC-master"
+  },
+  {
+    "Sourcefile": "/Users/matthewschneider/Desktop/EOSInterface/build/sketch/EOSInterface.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/matthewschneider/Documents/Arduino/libraries/OSC-master/OSCBoards.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/matthewschneider/Documents/Arduino/libraries/OSC-master/OSCBundle.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/matthewschneider/Documents/Arduino/libraries/OSC-master/OSCData.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/matthewschneider/Documents/Arduino/libraries/OSC-master/OSCMatch.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/matthewschneider/Documents/Arduino/libraries/OSC-master/OSCMessage.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/matthewschneider/Documents/Arduino/libraries/OSC-master/OSCTiming.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

@@ -1,0 +1,8 @@
+#line 1 "/Users/matthewschneider/Desktop/EOSInterface/.vscode/arduino.json"
+{
+    "sketch": "EOSInterface.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem1401",
+    "programmer": "avrispmkii"
+}
